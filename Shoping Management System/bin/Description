@@ -1,0 +1,28 @@
+						SHOPPING MANAGEMENT SYSTEM
+						
+-> Interface
+	-> Men
+		-> Clothing
+			-> Pants
+			-> Shirts
+			-> T-Shirts
+			
+		-> Shoes
+			-> Slippers
+			-> Boot
+	-> Women
+		-> Clothing
+			-> Tops
+			-> Shorts
+			-> Pants
+			
+		-> Jewelry 
+	-> Children
+		-> Accessories
+
+		
+-> Methods
+	- Insert
+	- Delete
+	- Availability checking
+	- Search

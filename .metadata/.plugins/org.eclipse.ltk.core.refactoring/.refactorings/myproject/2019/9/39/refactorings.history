@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract method &apos;private void extracted()&apos; from &apos;snakegame.Main.Main()&apos; to &apos;snakegame.Main&apos;&#x0D;&#x0A;- Original project: &apos;myproject&apos;&#x0D;&#x0A;- Method name: &apos;extracted&apos;&#x0D;&#x0A;- Destination type: &apos;snakegame.Main&apos;&#x0D;&#x0A;- Declared visibility: &apos;private&apos;" comments="false" description="Extract method &apos;extracted&apos;" destination="0" exceptions="false" flags="786434" id="org.eclipse.jdt.ui.extract.method" input="/src&lt;snakegame{Main.java" name="extracted" replace="false" selection="111 6" stamp="1569144081674" version="1.0" visibility="2"/>
+</session>
